@@ -1,0 +1,270 @@
+/* ==UserStyle==
+@name         FMUSkeuomorphic Google Classroom
+@version      20250720.22.34
+@namespace    https://userstyles.world/user/PowerPoint
+@description  A nice skeuomorphic theme for Google Classroom
+@author       PowerPoint
+@license      No License
+==/UserStyle== */
+
+@-moz-document domain("classroom.google.com") {
+/* .QRiHXd, */ .qk0lee, .joJglb, .n4xnA, .d4Fe0d:not(.JZicYb, .YJHsie, .onkcGd) {
+    border: 1px solid #c4c4c4;
+    background: linear-gradient(#f3f3f3 0%, #ddd 50%, #c8c8c8 50%, #eaeaea 100%);
+}
+.UAJaRc
+{
+    content: url("https://static.wikia.nocookie.net/logopedia/images/4/4d/Math_Input_Panel_2009.png/revision/latest?cb=20221230194531");
+}
+    body {
+        background-color: #bdbdbd;
+    }
+    body, .GRvzhf, .y183Ub, .HqpJve {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .z3vRcc-ZoZQ1, .XL4gNd {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+    .DWJNgb,  .YrFhrf-ZoZQ1, .r9JCQd, .tLDEHd {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-transform: uppercase;
+    }
+.onkcGd, .notranslate, .Mtd4hb, .fB7J9c {
+    background: rgba(0, 0, 0, 0) !important;
+}
+    .hN1OOc.eumXzf{
+     color: #76c8ff;
+     border: 2px solid #55555561
+    }
+.hN1OOc.eumXzf::after {
+    border-width: 13px;
+    border-image: linear-gradient(#fff0, #afafaf) 30;
+}
+.hN1OOc.eumXzf:hover::after {
+    border-image: linear-gradient(#00a9ff00, #d6f1ff66) 30;
+}
+.d4Fe0d span {
+    font-size: 14px;
+}
+.KEDCCd {
+    background: linear-gradient(#434343, #818181e3), url(https://img.freepik.com/free-photo/noisy-background_1194-7547.jpg?semt=ais_hybrid&w=740) !important;
+    color: #fff !important;
+}
+.bFjUmb-Ysl7Fe {
+    background: linear-gradient(#a5b5b6, #d2d8dc) !important;
+    border: 1px solid #93a0a1;
+}
+.rknsod {
+    background: linear-gradient(#d6d6d6d6, #fff), url(https://img.freepik.com/free-photo/noisy-background_1194-7547.jpg?semt=ais_hybrid&w=740) !important;
+    scrollbar-width: none;
+}
+.u2mfde {
+    color: #fff !important;
+}
+.u2mfde {
+    border-left: 1px solid #464646;
+    border-right: 1px solid #474747;
+}
+.u2mfde:hover {
+    background: linear-gradient(#3c3c3c, #595959) !important;
+    /* text-shadow: 0px 0px 15px white, 1px 0px 15px white, 0px 1px 15px white; */
+    text-shadow: 0px 0px 15px #577686, 1px 0px 15px #2fb8ff, 0px 1px 15px #30b9ff !important;
+}
+.u2mfde:hover {
+    color: #39bbff !important;
+    transition: 0.2s;
+}
+.u2mfde {
+    transition: 0.2s;
+}
+.tfGBod {
+    border: 5px solid #80808000;
+}
+.NMm5M {
+    color: #000;
+}
+.kFwPee {
+    background: linear-gradient(#f3f3f3, #bebebe) !important;
+}
+.IzVHde {
+    background: linear-gradient(#f3f3f3, #bebebe) !important;
+}
+.v9TZ3c {
+    box-shadow: 0px 5px 10px #ccc !important;
+}
+/* sidebar */
+.OX4Vcb {
+   background: linear-gradient(#f3f3f3, #979797);
+    /* background: url(); */
+    background-size: 100vw 100vh;
+    
+.tCcYY .yWU57c {
+    scrollbar-width: none;
+}
+}
+.STek2d {
+    box-shadow: 5px 7px 30px #c5c5c5 !important;
+}
+/* buttons */
+.VfPpkd-LgbsSe, .wQiG5d, .UywwFc-LgbsSe {
+    background: linear-gradient(#81cfff 0%, #63c3ff 50%, #3eaff7 50%, #86d1ff 100%) !important;
+    color: #fff !important;
+    border: 1px solid #3eaff7;
+    transition: 0.2s;
+}
+.VfPpkd-LgbsSe:hover {
+    background: linear-gradient(#63edf7 0%, #3ec8c6 50%, #00c4e2 50%, #86fffd 100%) !important;
+    text-shadow: 0px 0px 15px #fff, 1px 0px 15px #fff, 0px 1px 15px #fff;
+    transition: 0.2s;
+}
+.VfPpkd-dgl2Hf-ppHlrf-sM5MNb svg {
+    color: white !important;
+}
+/* Home */
+.Vx8Sxd {
+    color: #000 !important;
+}
+}
+.YJHsie {
+    background: transparent !important;
+}
+.YJHsie svg {
+    color: #fff !important;
+}
+/* Course thingies */
+
+.gHz6xd {
+    background: linear-gradient(#f7f7f7 20%, #dbdbdb 80%);
+    border-radius: 5px !important;
+    box-shadow: 5px 6px 15px #b5b5b5 !important;
+    border: 1px solid #b1b1b1 !important;
+}
+.gHz6xd.rZXyy:not(.kKn9Nc):not(.u0dx8e):hover {
+	border: none;
+	margin-top: 0rem !important;
+    margin-right: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    margin-left: 0rem !important;
+}
+.JwPp0e {
+    min-height: 800px !important;
+}
+.PNzAWd {
+    box-shadow: 0px 7px 5px #989898 !important;
+}
+/* Banner */
+.VfPpkd-WLXbod, .geqPvd {
+    background: linear-gradient(#ebf763 0%, #bdc83e 50%, #b3b300 50%, #fff78d 100%) !important;
+}
+.VfPpkd-Rj7Y9b {
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 15px !important;
+}
+.Vx8Sxd, .wZTANe .J1raN {
+    color: #fff !important;
+}
+/* Class Work */
+.NoUlnb {
+    background: linear-gradient(#cbcbcb, #a9a9a9);
+}
+.jWCzBe {
+    background: linear-gradient(#d8d8d8, #bababa);
+    border: 1px solid #979797;
+    border-radius: 7px !important;
+}
+/* Calender */
+.F262Ye:not(.dDKhVc) {
+    border: 1px solid #0c499a;
+    background: linear-gradient(#3f91ff, #0c499a) !important;
+}
+.xSP5ic {
+    color: white !important;
+}
+.V203cd {
+    background: linear-gradient(#e2e2e2, #555);
+}
+/* Settings */
+.mSaSG {
+    background: linear-gradient(#d4d4d4, #989898);
+    box-shadow: 5px 6px 15px #999 !important;
+}
+/* Misc */
+.N6nSod {
+    border: 1px solid #a0a0a0;
+    background: linear-gradient(#b5b5b5, #dbdbdb);
+    box-shadow: 0px 6px 15px #41414187 !important;
+}
+/* Content Menu */
+.VfPpkd-xl07Ob-XxIAqe {
+    background: #b3b3b385;
+    backdrop-filter: blur(3px);
+}
+.VfPpkd-StrnGf-rymPhb-b9t22c {
+    color: white;
+}
+.VfPpkd-P5QLlc {
+    background: #565c6099 !important;
+    backdrop-filter: blur(7px) !important;
+}
+.VfPpkd-P5QLlc h3, .VfPpkd-P5QLlc p, .VfPpkd-P5QLlc li, .VfPpkd-P5QLlc span {
+    color: white !important;
+}
+.ECOutf, .zaxms {
+    background: #009cff00 !important;
+    backdrop-filter: blur(0px) !important;
+}
+.VfPpkd-IE5DDf {
+    background: #00000036 !important;
+}
+/* Top Bar */
+.EHzcec, .Lvwayc {
+    background: #d3d3d385 !important;
+    backdrop-filter: blur(3px) !important;
+    border-radius: 5px !important;
+}
+.LVal7b {
+    background: #0000 !important;
+    backdrop-filter: blur(0px) !important;
+}
+.LVa17b * {
+    color: white !important;
+}
+/* , , .ut3Ak, .tqFCve, .V5tzAf, .aFCkf, .bMnvr
+#yDmH0d {
+    background: #009cff85 !important;
+    backdrop-filter: blur(3px) !important;
+    border-radius: 5px !important;
+}
+.sZ3gbf, .XB27pc {
+    background: #009cff00 !important;
+    backdrop-filter: blur(0px) !important;
+} */
+/* Post */
+.tAVIoc, .EN2Rfc {
+    background: rgba(48, 48, 48, .22) !important;
+}
+.LZqXdf {
+    background: linear-gradient(#e8e8e8, #868686);
+}
+.etr9pd, .oh9CFb {
+    background: linear-gradient(#fff, #d3d3d3) !important;
+    box-shadow: 0px 6px 15px #3a3a3a !important;
+}
+.RcHwO:hover {
+    background: linear-gradient(#b9b9b9, #777) !important;
+}
+.Aopndd {
+    background: linear-gradient(#aaa, #e8e8e8);
+}
+/* To Do (tab) */
+.e2urcc {
+    background: linear-gradient(#b8b8b8, #696969) !important;
+    border-radius: 5px;
+}
